@@ -1,2 +1,2 @@
 # Intro-to-ML-GDSC
-Project Intro to ML under GDSC IITk
+Project Intro to ML under GDSC IITK
